@@ -8,5 +8,6 @@ ___
 
 <body>
 <div class="container">
-<button>ENC1101 Notes</button>
+<button>ENC1101</button>
+ <button>CGS1060C</button>
   </div>
